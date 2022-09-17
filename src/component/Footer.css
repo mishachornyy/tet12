@@ -1,0 +1,23 @@
+footer {
+  height: 80px;
+  background: #FFFFFF;
+  padding-top: 30px;
+
+}
+
+.footerText {
+  max-width: 1294px;
+  display: flex;
+  justify-content: flex-end;
+  align-items:center;
+  font-weight: 400;
+  font-size: 14px;
+  color: #839278;
+}
+h4{
+  padding-right: 91px;
+}
+h3{
+ padding-right:  579px
+}
+
